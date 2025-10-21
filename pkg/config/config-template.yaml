@@ -1,0 +1,13 @@
+modelType: openai
+mcpUrl: "http://localhost:12345/sse"
+ollamaConfig:
+  model: ""
+  baseUrl: ""
+openaiConfig:
+  apiKey: ""
+  model: ""
+  baseUrl: ""
+siliconflowConfig:
+  apiKey: ""
+  model: ""
+  baseUrl: ""  
